@@ -35,7 +35,7 @@ This Python script performs:
 
 ## 📊 Data Visualization
 
-![Boxplot Screenshot](Boxplot.png)
+![Boxplot Screenshot](boxplot.png)
 
 ## 🚀 Usage
 
